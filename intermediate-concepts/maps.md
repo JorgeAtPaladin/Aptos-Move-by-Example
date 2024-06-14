@@ -6,7 +6,7 @@ This module provides a solution for sorted maps, that is it has the properties t
 
 * Keys point to Values
 * Each Key must be unique
-* A Key can be found within O(Log N) time
+* A Key can be found within O(N) time
 * The data is stored as sorted by Key
 * Adds and removals take O(N) time
 
